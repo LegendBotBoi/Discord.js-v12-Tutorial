@@ -1,6 +1,6 @@
 Discord.js-v12-Tutorial
 
-Lazy? Not Want To Download Code? Remix Glitch Project
+# Lazy? Not Want To Download Code? Remix Glitch Project
 
 Episode #1 | https://glitch.com/edit/#!/remix/meadow-steep-tangelo
 
